@@ -33,11 +33,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # My gems
-gem 'devise'
-gem 'webpacker'
-gem 'react-rails'
 gem 'foreman'
-gem 'js-routes'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
